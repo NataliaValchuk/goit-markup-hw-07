@@ -1,0 +1,11 @@
+.portfolio {
+  padding: 94px 0;
+  background-color: var(--light-color);
+}
+.portfolio-projects-list {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  flex-wrap: wrap;
+  gap: 30px;
+}
