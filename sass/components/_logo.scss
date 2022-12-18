@@ -11,4 +11,12 @@
   &__accent {
     color: var(--dark-color);
   }
+
+  &--footer {
+    margin-bottom: 28px;
+
+    .logo__accent {
+      color: var(--light-color);
+    }
+  }
 }
